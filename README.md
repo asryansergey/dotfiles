@@ -9,3 +9,4 @@ git clone https://github.com/asryansergey/dotfiles.git
 cd ./dotfiles
 ./apply_configs.sh
 ```
+> Other files *(like iterm, zsh_theme etc)* require manual actions.
