@@ -4,7 +4,7 @@
 
 dir=~/dotfiles/config
 olddir=~/dotfiles_old
-files="bashrc vimrc zshrc"
+files="bash_profile vimrc zshrc"
 
 echo "[!] Creating $olddir for backup of any existing dotfiles in ~/"
 mkdir -p $olddir
