@@ -29,4 +29,5 @@ filetype plugin indent on
 highlight LineNr ctermfg=143
 highlight LineNr ctermbg=235
 highlight statusline ctermfg=darkgrey
-hi IncSearch ctermbg=131 ctermfg=235 cterm=NONE guibg=#af5f5f guifg=#262626 gui=NONE
+highlight IncSearch ctermbg=131 ctermfg=235 cterm=NONE guibg=#af5f5f guifg=#262626 gui=NONE
+highlight Comment ctermfg=green
