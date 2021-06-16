@@ -17,8 +17,8 @@ set hlsearch
 set number
 set ruler
 set ttyfast
-set nowrap
-" set laststatus=2 
+"set nowrap
+"set laststatus=2 
 
 "-- File specific
 filetype on
